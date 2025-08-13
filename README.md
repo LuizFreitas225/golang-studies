@@ -1,0 +1,1 @@
+Todo o cronograma de está sendo documentado nesse [Documento Notion](https://www.notion.so/GoLang-Anota-es-219a59d87487809891d1cc4183c2e4ff), cotendo vídeos, links dos contéudos utilizados juntamente com códigos comentados que foram desenvolvidos na prática do estudo.
